@@ -861,6 +861,7 @@
     </profile>
     <profile>
       <!-- run with: mvn test -Pcoverage -->
+        
       <id>coverage</id>
       <activation>
         <activeByDefault>false</activeByDefault>
